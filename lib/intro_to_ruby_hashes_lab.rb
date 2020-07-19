@@ -3,7 +3,7 @@ def new_hash
   }
 end
 def my_hash
-  new_hash = {
+  my_hash = {
     house: => "510 East 6th Street"
   }
 end
