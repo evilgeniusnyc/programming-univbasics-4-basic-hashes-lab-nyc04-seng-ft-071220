@@ -2,9 +2,10 @@ def new_hash
   new_hash = {
   }
 end
-
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  new_hash = {
+    house: => "510 East 6th Street"
+  }
 end
 
 def pioneer
